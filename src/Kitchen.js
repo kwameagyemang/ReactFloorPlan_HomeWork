@@ -6,7 +6,7 @@ class Kitchen extends Component {
             <div className='kitchenWare'>
                 <h3>Oven</h3>
                 <h3>Sink</h3>
-                
+                <h3>Kitchen</h3>   
             </div>
         );
     }
